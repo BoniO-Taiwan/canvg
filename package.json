@@ -1,6 +1,6 @@
 {
-  "name": "canvg",
-  "version": "3.0.9",
+  "name": "@bonio-tw/canvg",
+  "version": "0.0.2",
   "description": "JavaScript SVG parser and renderer on Canvas.",
   "authors": [
     {
@@ -13,15 +13,18 @@
     {
       "name": "Dan Green",
       "url": "https://twitter.com/dangreen58"
+    },
+    {
+      "name": "BoniO TW"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/canvg/canvg"
+    "url": "https://github.com/BoniO-Taiwan/canvg"
   },
   "bugs": {
-    "url": "https://github.com/canvg/canvg/issues"
+    "url": "https://github.com/BoniO-Taiwan/canvg/issues"
   },
   "type": "module",
   "sideEffects": false,
